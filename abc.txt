@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Practical No 2
 create feature branches for the project
+=======
+merge and resolve conflicts
+>>>>>>> branch2
